@@ -1,0 +1,11 @@
+
+changeBg:3F8AB99AC7F129C6990020CC70109821.jpg;
+changeFigure:miniavatar.webp;
+setTextbox:on;
+？？？:哈哈哈;
+ :我是拉普兰德;
+ :因为懒得切图，所以我控制了她的身体;
+choose:什么:选择场景文件|那旁边那人就是德克萨斯:选择场景文件;
+ :没错;
+intro:全局中 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -1,0 +1,7 @@
+Game_name:test1;
+Game_key:8c78d09e62cf63;
+Title_img:恩齐都.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Package_name:TheFirst;
+Game_Logo:恩齐都.jpg;

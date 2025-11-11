@@ -1,0 +1,19 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:这是一个晴朗的早晨|黍坐在草地上，享受着午后阳光 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:09AF4C1A33DA020F4BC07C91EE412781.png -next;
+unlockCg:bg.webp -name=良夜; // 解锁CG并赋予名称
+changeFigure:stand.webp -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+NPC:这是一个混乱的世界 -v1.wav;
+ :许多不同时空的人汇聚于此;
+; 模版修改演示
+你需要做什么马 -v1.wav -fontSize=large;
+ :你什么也不需要做;
+miniAvatar:none;
+你等着就行;
+setTextbox:hide;
+changeFigure:stand.webp;
+changeFigure:none -next;
+choose:刚才那是谁:lpll.txt|怎么有两个你:lpll.txt;
